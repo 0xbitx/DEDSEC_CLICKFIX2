@@ -31,9 +31,9 @@ CLICKFIX is a social engineering tool designed to deploy malware using a decepti
 ### INSTALLATION
     * git clone https://github.com/0xbitx/DEDSEC_CLICKFIX2.git
     * cd DEDSEC_CLICKFIX2
-    * pip3 install requests psutil tabulate tqdm
+    * sudo pip3 install requests psutil tabulate tqdm
     * chmod +x dedsec-clickfix
-    * ./dedsec-clickfix
+    * sudo ./dedsec-clickfix
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
